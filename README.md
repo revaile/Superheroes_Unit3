@@ -19,3 +19,5 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+![alt text](https://github.com/revaile/Superheroes_Unit3/blob/master/Cuplikan%20layar%202024-10-26%20002042.png?raw=true)
